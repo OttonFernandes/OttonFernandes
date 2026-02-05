@@ -1,10 +1,9 @@
 # Otton Fernandes 
 
 Desenvolvedor focado em **integrações de APIs** e soluções para conectar produtos a **softwares de terceiros**.  
-Atualmente na **PIPEELO**, trabalhando com **Node.js** e **Laravel** para entregar integrações estáveis, observáveis e bem documentadas.
 
-📍 Londrina/PR — Brasil • 🎂 27 anos  
-🌍 Inglês avançado • 🇷🇺 aprendendo russo
+📍 Londrina/PR — Brasil •  27 anos  
+🌍 Inglês avançado • 
 
 ---
 
