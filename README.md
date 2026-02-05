@@ -1,4 +1,4 @@
-# Otton Fernandes 👋
+# Otton Fernandes 
 
 Desenvolvedor focado em **integrações de APIs** e soluções para conectar produtos a **softwares de terceiros**.  
 Atualmente na **PIPEELO**, trabalhando com **Node.js** e **Laravel** para entregar integrações estáveis, observáveis e bem documentadas.
@@ -21,15 +21,6 @@ Atualmente na **PIPEELO**, trabalhando com **Node.js** e **Laravel** para entreg
 - **Back-end:** Node.js, Laravel  
 - **Integrações:** REST, Webhooks, JSON, HTTP, Auth  
 - **Boas práticas:** logs, monitoramento, consistência, resiliência
-
----
-
-## Outras atividades
-- 🏊 Natação  
-- 🎮 CS / LoL / RuneScape  
-- 🥊 MMA • ⚽ Futebol • 🏆 eSports (CS/LoL/Valorant)
-
----
 
 ## GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OttonFernandes&show_icons=true&theme=dark)
