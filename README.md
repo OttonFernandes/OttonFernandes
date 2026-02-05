@@ -21,10 +21,6 @@ Desenvolvedor focado em **integrações de APIs** e soluções para conectar pro
 - **Integrações:** REST, Webhooks, JSON, HTTP, Auth  
 - **Boas práticas:** logs, monitoramento, consistência, resiliência
 
-## GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OttonFernandes&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OttonFernandes&layout=compact&theme=dark)
-
 ---
 
 ## Contato
